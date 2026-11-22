@@ -1,2 +1,6 @@
 good morning 
+<<<<<<< HEAD
 good evening 
+=======
+ good afternoon
+>>>>>>> 35dd8b0 (2nd commit)
